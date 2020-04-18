@@ -42,5 +42,12 @@ for remove branch
 git branch -d feature_name
 `
 
+**How to merge:**
+merger is the process of joining branchs, use command:
+`
+git merge <branch_name>
+`
+
+
 
 
